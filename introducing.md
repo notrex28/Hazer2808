@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @notrex28
+- 🌱 I’m currently learning python, c++, java.
